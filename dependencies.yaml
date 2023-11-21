@@ -3,5 +3,5 @@ dependencies:
     ref: f7946a35e596b4449c6e54d7468d9b1417b3b0c5
     required: true
   ../tqtc-qtwebsockets:
-    ref: 9b30b04a9a4087432fcf441136c4dc658a82f823
+    ref: e6724a76443a71896d6b1bf00c35eef1ad0e07e9
     required: false
