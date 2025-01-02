@@ -1,6 +1,6 @@
 // Copyright (C) 2020 Mikhail Svetkin <mikhail.svetkin@gmail.com>
 // Copyright (C) 2019 The Qt Company Ltd.
-// SPDX-License-Identifier: LicenseRef-Qt-Commercial
+// SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
 
 #ifndef QHTTPSERVERVIEWTRAITS_IMPL_H
 #define QHTTPSERVERVIEWTRAITS_IMPL_H
